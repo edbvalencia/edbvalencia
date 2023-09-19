@@ -10,16 +10,6 @@
   </a>
 </div>
 
-### About Me
-
-🐯
-
-🐯
-
-🐯
-
-🐯
-
 ### Technologies
 
 <div>
