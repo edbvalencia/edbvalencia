@@ -1,6 +1,6 @@
 <div align="center">
 <div id="header">
-<img src="https://i.pinimg.com/originals/37/4a/9c/374a9ce6182b7a8aafd8c6ea6b698ff3.gif" width="480" style="width:100%" />
+<img src="https://i.imgur.com/GFpKsNp.gif" width="1430"/>
 </div>
 </div>
 <div id="badges">
