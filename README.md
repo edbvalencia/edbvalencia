@@ -4,7 +4,7 @@
 
 <br/>
 
-<p align="center">Aquí, materializo mi pasión por la creación,<br> dando forma a mis ideas con proyectos creativos.</p>
+<p align="center">Aquí, materializo mi amor por la creación,<br> dando forma a mis ideas con proyectos creativos.</p>
 
 <div align="center">
   <div id="header">
