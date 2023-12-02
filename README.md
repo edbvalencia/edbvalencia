@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/edbvalencia/edbvalencia/main/edbvalencia-imagotipo.svg" alt="Logo de edbvalencia" width="156"/>
 </div>
 
-<p align="center">Soy <strong>Ingeniero de Software</strong> <br />Me apasiona crear cosas, el software es una de mis herramientas para dar vida a mis ideas, resolver problemas y llevar a cabo proyectos con dedicación y pasión.</p>
+<p align="center">>Me apasiona crear cosas, el software es una de mis herramientas para dar vida a mis ideas</p>
 
 
 <div align="center">
