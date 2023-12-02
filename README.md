@@ -1,3 +1,9 @@
+<div align="left">
+  <img src="https://raw.githubusercontent.com/edbvalencia/edbvalencia/main/edbvalencia-logo.svg" alt="Logo de edbvalencia" width="33"/>
+</div>
+
+# Eduardo Valencia
+
 <div align="center">
   <div id="header">
     <img src="https://i.imgur.com/GFpKsNp.gif" width="1430"/>
