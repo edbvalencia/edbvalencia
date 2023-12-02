@@ -1,16 +1,11 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/edbvalencia/edbvalencia/main/edbvalencia-imagotipo.svg" alt="Logo de edbvalencia" width="156"/>
-</div>
-
 <br/>
-
-<p align="center">Aquí, materializo mi amor por la creación,<br> dando forma a mis ideas con proyectos creativos.</p>
-
 <div align="center">
   <div id="header">
-    <img src="https://i.imgur.com/GFpKsNp.gif" width="1430"/>
+    <img src="https://raw.githubusercontent.com/edbvalencia/edbvalencia/main/edbvalencia-portada.svg" width="1430"/>
   </div>
 </div>
+
+<p align="center">Aquí, materializo mi amor por la creación,<br> dando forma a mis ideas con proyectos creativos.</p>
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/edbvalencia/">
