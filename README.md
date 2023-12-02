@@ -1,4 +1,3 @@
-<br/>
 <div align="center">
   <div id="header">
     <img src="https://raw.githubusercontent.com/edbvalencia/edbvalencia/main/edbvalencia-portada.svg" width="1430"/>
