@@ -2,8 +2,9 @@
   <img src="https://raw.githubusercontent.com/edbvalencia/edbvalencia/main/edbvalencia-imagotipo.svg" alt="Logo de edbvalencia" width="156"/>
 </div>
 
-<p align="center">>Me apasiona crear cosas, el software es una de mis herramientas para dar vida a mis ideas</p>
+<br/>
 
+<p align="center">Aquí, materializo mi pasión por la creación, dando forma a mis ideas con proyectos creativos.</p>
 
 <div align="center">
   <div id="header">
