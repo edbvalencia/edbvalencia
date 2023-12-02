@@ -4,10 +4,10 @@
   </div>
 </div>
 
-<p align="left">👨‍💻🐯 Mi pasión por la creación, materializada a través de desafíos convertidos en proyectos creativos.</p>
+<p align="left">👨‍💻🐯 Mi pasión por la creación, materializada a través de desafíos convertidos en proyectos creativos. 🐯👨‍💻</p> 
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/edbvalencia/">
+  <a href="https://www.linkedin.com/in/edbvalencia/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
