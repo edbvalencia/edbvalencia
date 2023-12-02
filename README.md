@@ -1,5 +1,5 @@
 <div align="left">
-  <img src="https://raw.githubusercontent.com/edbvalencia/edbvalencia/main/edbvalencia-logo.svg" alt="Logo de edbvalencia" width="33"/>
+  <img src="https://raw.githubusercontent.com/edbvalencia/edbvalencia/main/edbvalencia-imagotipo.svg" alt="Logo de edbvalencia" width="33"/>
 </div>
 
 # Eduardo Valencia
