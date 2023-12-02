@@ -1,4 +1,4 @@
-<div align="left">
+<div align="center">
   <img src="https://raw.githubusercontent.com/edbvalencia/edbvalencia/main/edbvalencia-imagotipo.svg" alt="Logo de edbvalencia" width="156"/>
 </div>
 
