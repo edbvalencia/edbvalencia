@@ -5,6 +5,7 @@
 </div>
 
 <p align="left">Aquí, materializo mi amor por la creación, dando forma a mis ideas con proyectos creativos.</p>
+<p align="left">Here, I materialize my passion for creation, giving shape to my ideas through creative projects.</p>
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/edbvalencia/">
