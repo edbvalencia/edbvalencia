@@ -4,7 +4,7 @@
   </div>
 </div>
 
-<p align="left">🐯 Mi pasión por la creación, materializada a través de desafíos convertidos en proyectos creativos.</p> 
+<p align="left">🐯 Mi pasión por la creación, materializada.</p> 
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/edbvalencia/" target="_blank">
